@@ -19,6 +19,7 @@
 			    http://www.springframework.org/schema/util
 			    http://www.springframework.org/schema/util/spring-util.xsd">
 
+
 <!--dao层配置-->
 
     <!--加载配置文件-->
