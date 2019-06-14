@@ -8,6 +8,7 @@ public class GitTest {
     }
 
     public boolean isOdd(int i){
+        //这是一个优雅的判断奇偶数的方法
         return i%2 == 0;
     }
 }
